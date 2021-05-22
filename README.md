@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Hacker0252
+- 👀 I’m interested in coding and c++ and spad development
+- 🌱 I’m currently learning c++ and jshax
+- 💞️ I’m looking to collaborate on anything that includes these programming languages: spad, java, js, spad, jshax and swift.
+- 📫 How to reach me: Discord - Hacker025#0153; Email - bitraxis@protonmail.com
+- Im using linux so you have to take me with a pinch of salt.
